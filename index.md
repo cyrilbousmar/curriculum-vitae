@@ -17,7 +17,7 @@ Personal :
 
 <div id="webaddress">
   <a href="https://cyrilbousmar.github.io"><i class="fa-solid fa-house"></i> cyrilbousmar.github.io</a> - 
-  <a href="https://www.linkedin.com/in/cyril-bousmar/"><i class="fa-brands fa-linkedin"></i> cyril-bousmar</a> - 
+  <a href="https://www.linkedin.com/in/cyril-bousmar/"><i class="fa-brands fa-linkedin"></i> cyril-bousmar</a>
 </div>
 
 ## Experience
