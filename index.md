@@ -1,91 +1,68 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Cyril Bousmar's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Cyril Bousmar
+Computer science'student specilized in AI, Université catholique de Louvain (UCLouvain)
+Software engineer, Université catholique de Louvain (UCLouvain)
+
+IT department of Brussels' campus<br/>
+P.44<br/>
+43 Rue du Marais, Brussels, Belgium<br/>
+
+Professinal:
+<a href="cyril.bousmar@uclouvain.be">cyril.bousmar@uclouvain.be</a><br/>
+Personal :
+<a href="cyril.bousmar@gmail.com">cyril.bousmar@uclouvain.be</a> - +32 (0)476 33 67 47<br/>
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="https://cyrilbousmar.github.io"><i class="fa-solid fa-house"></i> cyrilbousmar.github.io</a> - 
+  <a href="https://www.linkedin.com/in/cyril-bousmar/"><i class="fa-brands fa-linkedin"></i> cyril-bousmar</a> - 
 </div>
 
+## Experience
 
-## Currently
+`2023-present`
+**Software engineer**, *IT department of Brussels' campus, Université catholique de Louvain (UCLouvain)*, Brussels, Belgium.
 
-Standing on the shoulders of giants
+`2023-2023`
+**Business analyst and Software engineer**, *IT department of Brussels' campus, Université catholique de Louvain (UCLouvain)*, Brussels, Belgium.
 
-### Specialized in
+## Volonteering
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+`2023-present`
+**Erasmus ambassador**, *University College Léonard de Vinci*, Brussels, Belgium.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2023-2026(expected)`
+**M.Sc.Computer Science, specialized in Artificial Intelligence**, *Louvain School of Engineering (EPL), Université catholique de Louvain (UCLouvain)*, Louvain-la-Neuve, Belgium.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2023`
+**B.S.(Honours) Erasmus, Computer Science**, *Faculty of Computing, Digital and Data, Technological university dublin (TUD)*, Dublin, Ireland.
 
-- Sizar
+`2020-2023`
+**B.S., Computer Science**, *Science & Technology Institute, University College Léonard de Vinci (HeVINCI)*, Brussels, Belgium.
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Certificates
 
-- Fellow
+`Jun. 2023`
+**IELTS band 8**, *British Council*, Credential ID A3-BE003-S-9596409, Skills: English.
 
+## Languages
 
+Native: French
 
-## Awards
+Mastery: English
 
-`2012`
-President, *Royal Society*, London, UK
+Basic: Dutch, Japanese
 
-Associate, *French Academy of Science*, Paris, France
+## Personal
 
+Birth date: 10 March 1998
 
+Citizenship: Belgium
 
-## Publications
+Residence: Belgium (Permanent resident)
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+<br/>Last updated: December 2023<br/><br/>
