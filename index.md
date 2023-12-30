@@ -3,7 +3,7 @@ layout: cv
 title: Cyril Bousmar
 ---
 # Cyril Bousmar
-Computer science'student, specialization in AI, Université catholique de Louvain (UCLouvain)<br/>
+Student in computer science specilized in artificial intelligence, Université catholique de Louvain (UCLouvain)<br/>
 Software engineer, Université catholique de Louvain (UCLouvain)
 
 IT department of Brussels' campus<br/>
