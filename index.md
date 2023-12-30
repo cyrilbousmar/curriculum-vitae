@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Cyril Bousmar's CV
+title: Cyril Bousmar
 ---
 # Cyril Bousmar
 Computer science'student specilized in AI, Université catholique de Louvain (UCLouvain)
