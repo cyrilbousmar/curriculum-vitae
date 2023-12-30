@@ -13,7 +13,7 @@ P.44<br/>
 Professinal:
 <a href="cyril.bousmar@uclouvain.be">cyril.bousmar@uclouvain.be</a><br/>
 Personal :
-<a href="cyril.bousmar@gmail.com">cyril.bousmar@uclouvain.be</a> - +32 (0)476 33 67 47<br/>
+<a href="cyril.bousmar@gmail.com">cyril.bousmar@gmail.be</a> - +32 (0)476 33 67 47<br/>
 
 <div id="webaddress">
   <a href="https://cyrilbousmar.github.io"><i class="fa-solid fa-house"></i> cyrilbousmar.github.io</a> - 
