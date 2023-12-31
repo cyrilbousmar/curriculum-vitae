@@ -36,13 +36,13 @@ Private :
 ## Education
 
 `2023-2026(expected)`
-**M.Sc.Computer Science, specialized in Artificial Intelligence**, *Louvain School of Engineering (EPL), Université catholique de Louvain (UCLouvain)*, Louvain-la-Neuve, Belgium.
+**M.Sc. Computer Science, specialized in Artificial Intelligence**, *Louvain School of Engineering (EPL), Université catholique de Louvain (UCLouvain)*, Louvain-la-Neuve, Belgium.
 
 `2023`
-**B.S.Honours (Erasmus), Computer Science**, *Faculty of Computing, Digital and Data, Technological university dublin (TUD)*, Dublin, Ireland.
+**B.S. Honours (Erasmus), Computer Science**, *Faculty of Computing, Digital and Data, Technological university dublin (TUD)*, Dublin, Ireland.
 
 `2020-2023`
-**B.S., Computer Science**, *Science & Technology Institute, University College Léonard de Vinci (HeVINCI)*, Brussels, Belgium.
+**B.S. Computer Science**, *Science & Technology Institute, University College Léonard de Vinci (HeVINCI)*, Brussels, Belgium.
 
 ## Certificates
 
