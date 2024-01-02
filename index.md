@@ -49,6 +49,9 @@ Private :
 `Jun. 2023`
 **IELTS band 8/9**, *British Council*, Credential ID A3-BE003-S-9596409, Skills: English.
 
+`Jun. 2020`
+**Basics of Japanese (LJAPO1100)**, *Language Institute, Université catholique de Louvain (UCLouvain)*, Grade 16/20 (top 19%).
+
 ## Languages
 
 Native: French
