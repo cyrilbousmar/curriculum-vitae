@@ -47,7 +47,7 @@ Private :
 ## Certificates
 
 `Jun. 2023`
-**IELTS band 8**, *British Council*, Credential ID A3-BE003-S-9596409, Skills: English.
+**IELTS band 8/9**, *British Council*, Credential ID A3-BE003-S-9596409, Skills: English.
 
 ## Languages
 
