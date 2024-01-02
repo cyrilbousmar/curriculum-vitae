@@ -10,7 +10,7 @@ IT department of Brussels' campus<br/>
 P.44<br/>
 43 Rue du Marais, Brussels, Belgium<br/>
 
-Professinal:
+Professional:
 <a href="cyril.bousmar@uclouvain.be">cyril.bousmar@uclouvain.be</a><br/>
 Private :
 <a href="cyril.bousmar@gmail.com">cyril.bousmar@gmail.be</a>  - +32 (0)476 33 67 47<br/>
@@ -28,21 +28,21 @@ Private :
 `2023-2023`
 **Business analyst and Software engineer**, *IT department of Brussels' campus, Université catholique de Louvain (UCLouvain)*, Brussels, Belgium.
 
-## Volonteering
+## Volunteering
 
 `2023-present`
-**Erasmus ambassador**, *University College Léonard de Vinci*, Brussels, Belgium.
+**Erasmus ambassador**, *University College Léonard de Vinci (HeVinci)*, Brussels, Belgium.
 
 ## Education
 
-`2023-2026(expected)`
+`2023-2025 (expected)`
 **M.Sc. Computer Science, specialized in Artificial Intelligence**, *Louvain School of Engineering (EPL), Université catholique de Louvain (UCLouvain)*, Louvain-la-Neuve, Belgium.
 
 `2023`
 **B.S. Honours (Erasmus), Computer Science**, *Faculty of Computing, Digital and Data, Technological university dublin (TUD)*, Dublin, Ireland.
 
 `2020-2023`
-**B.S. Computer Science**, *Science & Technology Institute, University College Léonard de Vinci (HeVINCI)*, Brussels, Belgium.
+**B.S. Computer Science**, *Science & Technology Institute, University College Léonard de Vinci (HeVinci)*, Brussels, Belgium.
 
 ## Certificates
 
