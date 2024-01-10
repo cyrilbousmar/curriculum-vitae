@@ -35,7 +35,8 @@ Private :
 
 ## Education
 
-`2023-2025 (expected)`
+`2023-2025
+(expected)`
 **M.Sc. Computer Science, specialized in Artificial Intelligence**, *Louvain School of Engineering (EPL), Université catholique de Louvain (UCLouvain)*, Louvain-la-Neuve, Belgium.
 
 `2023`
