@@ -4,7 +4,7 @@ title: Cyril Bousmar
 ---
 # Cyril Bousmar
 Student in computer science specilized in artificial intelligence, Université catholique de Louvain (UCLouvain)<br/>
-Software engineer, Université catholique de Louvain (UCLouvain)
+IT agent, Université catholique de Louvain (UCLouvain)
 
 IT department of Brussels' campus<br/>
 P.44<br/>
