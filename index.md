@@ -15,15 +15,10 @@ Professional:
 Private :
 <a href="mailto:cyril.bousmar@gmail.com">cyril.bousmar@gmail.be</a>  - +32 (0)476 33 67 47<br/>
 
-<div id="webaddress">
-  <a href="https://cyrilbousmar.github.io"><i class="fa-solid fa-house"></i> cyrilbousmar.github.io</a> - 
-  <a href="https://www.linkedin.com/in/cyril-bousmar/"><i class="fa-brands fa-linkedin"></i> cyril-bousmar</a>
-</div>
-
 ## Experience
 
-`2023-present`
-**Software engineer**, *IT department of Brussels' campus, Université catholique de Louvain (UCLouvain)*, Brussels, Belgium.
+`2023-2024`
+**IT agent**, *IT department of Brussels' campus, Université catholique de Louvain (UCLouvain)*, Brussels, Belgium.
 
 `2023-2023`
 **Business analyst and Software engineer**, *IT department of Brussels' campus, Université catholique de Louvain (UCLouvain)*, Brussels, Belgium.
@@ -68,4 +63,4 @@ Citizenship: Belgium
 
 Residence: Belgium (Permanent resident)
 
-<br/>Last updated: December 2023<br/><br/>
+<br/>Last updated: July 2024<br/><br/>
