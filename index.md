@@ -11,7 +11,6 @@ Private :
 <a href="mailto:cyril.bousmar@gmail.com">cyril.bousmar@gmail.be</a>  - +32 (0)476 33 67 47<br/>
 
 <div id="webaddress">
-  <a href="https://cyrilbousmar.github.io"><i class="fa-solid fa-house"></i> cyrilbousmar.github.io</a> - 
   <a href="https://www.linkedin.com/in/cyril-bousmar/"><i class="fa-brands fa-linkedin"></i> cyril-bousmar</a>
 </div>
 
